@@ -1,0 +1,25 @@
+h1 {
+    color: rgb(43, 70, 226);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 3rem;
+    text-align: center;
+}
+
+body {}
+
+.test {
+    background-color: rgb(43, 70, 226);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.2rem;
+    color: white;
+
+}
+
+
+.test a {
+    color: white;
+}
+
+a:hover {
+    color: red;
+}
